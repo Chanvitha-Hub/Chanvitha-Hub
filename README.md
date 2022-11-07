@@ -9,7 +9,7 @@ Hey, I'm Chanvitha Praeveen <img alt="wave" src="https://raw.githubusercontent.c
 
 <p align="center">Nice to meet you! My name is Chanvitha Praveen. I'm currently studying at University of Sri Jatewardenepura.</p> <br>
 
-![Chanvitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanvitha-hub&theme=algolia&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanvitha-hub&theme=cobalt&show_icons=true)](https://github.com/chanvitha-hub/github-readme-stats)
+![Chanvitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanvitha-hub&theme=algolia&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanvitha-hub&theme=cobalt&show_icons=true)](https://github.com/chanvitha-hub/github-readme-stats)
 
 ## Visitor Count 
 ![Visitor Count](https://profile-counter.glitch.me/chanvitha-hub/count.svg)
