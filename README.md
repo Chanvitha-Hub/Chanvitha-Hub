@@ -40,6 +40,6 @@
 
 ### Here's my github README stats 😎
 
-<p><img align="center" width="505" src="https://github-readme-streak-stats.herokuapp.com/?user=ChanvithaPraveen" alt="ChanvithaPraveen" />
-<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=ChanvithaPraveen&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" /></p>
+<p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=ChanvithaPraveen" alt="ChanvithaPraveen" />
+<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=ChanvithaPraveen&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" /></p>
 
