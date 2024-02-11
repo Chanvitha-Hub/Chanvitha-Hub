@@ -40,8 +40,6 @@
 
 ### Here's my github README stats 😎
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimFBA" alt="FahimFBA" /></p>
-![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
-![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanvithaPraveen&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChanvithaPraveen&theme=radical)](https://git.io/streak-stats) 
+<p><img align="center" width="505" src="https://github-readme-streak-stats.herokuapp.com/?user=ChanvithaPraveen" alt="ChanvithaPraveen" />
+<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=ChanvithaPraveen&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" /></p>
 
