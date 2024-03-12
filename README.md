@@ -7,15 +7,13 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Machine Learning, Unreal Engine**
+- 🌱 I’m currently learning **Machine Learning, ASP.net**
 
-- 👨‍💻 All of my projects are available at https://github.com/ChanvithaPraveen?tab=repositories
-
-- 📝 I regularly write articles on [#](#)
+- 👨‍💻 All of my projects are available at [Git Repo](https://github.com/ChanvithaPraveen?tab=repositories)
 
 - 📫 How to reach me **chanvithapraween@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/chanvitha-praveen)
 
 - ⚡ Fun fact **I am a music Lover and can play Guitar, Violin, Cajon
 
